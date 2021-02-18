@@ -1,0 +1,21 @@
+{
+    "name": "c5d2y7/test-composer",
+    "description": "try to make composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shawn",
+            "email": "yattbacw@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Info": "src/Info"
+        }
+    }
+}
