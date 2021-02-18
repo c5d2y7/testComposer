@@ -1,6 +1,6 @@
 <?php
 
-namespace My\Info;
+namespace Info;
 
 class Data
 {
